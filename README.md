@@ -7,13 +7,18 @@
 ###teste de commit sur le travail d équipe
 
 
-*créer des bouton différent pour chaque persones
+*créer des bouton différent pour chaque personnes
 
 1.Romain
+
 2.David
+
 3.JC
+
 4.Patrick
+
 5.Vanessa
+
 6.Isa
 
 
