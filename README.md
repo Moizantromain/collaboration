@@ -2,12 +2,12 @@
 
 
 
-##projet git hub
+projet git hub
 
-###teste de commit sur le travail d équipe
+teste de commit sur le travail d équipe
 
 
-*créer des bouton différent pour chaque personnes
+créer des bouton différent pour chaque personnes
 
 1.Romain
 
@@ -23,4 +23,4 @@
 
 
 
-je vous laisse  prendre la liberté de créer votre  propre bouton mais n oubliez de le créer dans votre li nomé.
+je vous laisse  prendre la liberté de créer votre  propre bouton mais n oubliez de le créer dans votre **LI** nomé.
