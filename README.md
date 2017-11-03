@@ -7,7 +7,7 @@ projet git hub
 teste de commit sur le travail d équipe
 
 
-créer des bouton différent pour chaque personnes
+créer des boutons différent pour chaque personnes
 
 1.Romain
 
