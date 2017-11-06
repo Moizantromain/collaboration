@@ -27,3 +27,20 @@ li:nth-child(5) a{
 	color: pink;
 }
 
+li{
+	margin-bottom: 50px;
+	list-style-type: none;
+}
+a.david{
+	color:yellow;
+	padding: 20px 100px;
+	background: purple;
+	border: 2px solid red;
+	text-decoration: none;
+	box-shadow: 8px 8px 12px #aaa;
+}
+a.david:hover{
+	color:#0040FF;
+	background: white;
+	border: 2px solid #0040FF;
+}
