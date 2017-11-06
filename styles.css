@@ -20,12 +20,12 @@ body{
 	background-repeat: no-repeat;
 	background-position: bottom right ;
 }
-main{
+/*main{
 	overflow: hidden;
 }
 main ul{
 	position: relative;
-}
+}*/
 main ul .romain a{
 	text-decoration: none;
 	padding: 20Px;
