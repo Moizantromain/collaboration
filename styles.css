@@ -16,20 +16,33 @@ body{
 	background-position: bottom right ;
 }
 
-li{
-	margin-bottom: 50px;
-	list-style-type: none;
+
+dl.menu{
+     position: absolute;
+     top: 20px;
+     transform-origin: 50% 115px;
 }
-a.david{
-	color:yellow;
-	padding: 20px 100px;
-	background: purple;
-	border: 2px solid red;
-	text-decoration: none;
-	box-shadow: 8px 8px 12px #aaa;
+dl.menu dd{
+     transform: rotate(180deg);
 }
-a.david:hover{
-	color:#0040FF;
-	background: white;
-	border: 2px solid #0040FF;
+dl.menu:hover{
+     transform: rotate(-180deg);
+}
+dl.menu:hover{
+     animation: bounceIn 0.7s ease-in-out ;
+}
+@keyframes bounceIn {
+     from {transform: rotate(0deg);}
+     75%  {transform: rotate(-200deg);}
+     90%  {transform: rotate(-175deg);}
+     to   {transform: rotate(-180deg);}
+}
+div.menu{
+     animation: bounceOut 0.7s ease-in-out;
+}
+@keyframes bounceOut {
+     from {transform: rotate(-360deg);}
+     0%   {transform: rotate(-180deg);}
+     10%  {transform: rotate(-160deg);}
+     to   {transform: rotate(-360deg);}
 }
