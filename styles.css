@@ -26,7 +26,7 @@ body{
 main ul{
 	position: relative;
 }*/
-main ul .romain a{
+.romain a{
 	text-decoration: none;
 	padding: 20Px;
 	background-color: pink;
@@ -34,7 +34,7 @@ main ul .romain a{
 	left: 700px;
 }
 
-main ul .romain{
+.romain{
   display: block;
   vertical-align: middle;
   -webkit-transform: perspective(1px) translateZ(0);
@@ -45,12 +45,12 @@ main ul .romain{
   -webkit-transition-property: transform;
   transition-property: transform;
 }
-main ul .romain:hover, main ul .romain:focus, main ul .romain:active {
+.romain:hover, .romain:focus, .romain:active {
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
 }
 
-main ul .romain {
+.romain {
   display: block;
   vertical-align: middle;
   -webkit-transform: perspective(1px) translateZ(0);
