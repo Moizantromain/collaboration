@@ -44,3 +44,11 @@ a.david:hover{
 	background: white;
 	border: 2px solid #0040FF;
 }
+a.patrick{
+	color: #282828;
+	padding: 20px 100px;
+	background: lightblue;
+	border: 2px solid grey;
+	text-decoration: none;
+	box-shadow: 8px 8px 12px #aaa;
+}
